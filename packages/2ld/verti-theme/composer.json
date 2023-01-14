@@ -1,0 +1,22 @@
+{
+    "name": "2ld/verti-theme",
+    "type": "pagekit-theme",
+    "version": "0.0.1.1",
+    "title": "Verti theme for Pagekit",
+    "description": "HTML5 UP Verti template - http://html5up.net/verti",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "2LD",
+            "email": "info@2ld.ru",
+            "homepage": "http://2ld.ru"
+        },
+        {
+            "name": "HTML5 UP",
+            "homepage": "http://html5up.net"
+        }
+    ],
+    "extra": {
+        "image": "image.jpg"
+    }
+}
